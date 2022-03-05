@@ -1,0 +1,20 @@
+.body {
+    background-image: url(hospital2.jpeg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: auto;
+    
+    }
+    .he {
+        color: rgb(10, 3, 3);
+        font-size: 32px;
+        font-family: 'Times New Roman', Times, serif;
+      
+    }
+    .h {
+        color:gray;
+        font-size: 70px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+        background-color rgba(3, 0, 0, 0.726);  /* red with opacity */
+    }

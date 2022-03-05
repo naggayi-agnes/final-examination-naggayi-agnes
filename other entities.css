@@ -1,0 +1,20 @@
+.body {
+    background-image: url(docs.jpeg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: auto;
+    
+    }
+    .he {
+        color: rgb(10, 3, 3);
+        font-size: 32px;
+        font-family: pristina;
+        background-color: rgba(172, 150, 150, 0.726);  /* red with opacity */
+    }
+    .h {
+        color:white;
+        font-size: 70px;
+        font-family: gabriola;
+        background-color: rgba(3, 0, 0, 0.726);  /* red with opacity */
+    }
